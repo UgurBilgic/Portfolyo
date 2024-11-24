@@ -99,7 +99,7 @@ function App() {
         </nav>
         <div className="lg:pt-20 lg:grid lg:grid-cols-2 gap-4 ">
           <div className="lg:col-span-1 flex pt-20 lg:pt-0 justify-center items-center relative lg:pb-20  ">
-            <div className="info-card flex flex-col gap-2 lg:fixed  lg:pt-10 sm:mt-11 md:sticky limit">
+            <div className="info-card flex flex-col gap-2 lg:fixed  lg:pt-16 sm:mt-11 md:sticky limit">
               <a href="#">
                 <strong className="font-sans text-4xl font-bold text-white">
                   Uğur Bilgiç
