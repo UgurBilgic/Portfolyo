@@ -65,7 +65,7 @@ function App() {
         <nav className="dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600 flex justify-center items-center text-center">
           <div className="w-full max-w-screen-xl flex flex-row items-center justify-center space-x-4 lg:space-x-12 p-4">
             <a
-              href="#"
+              href="#?"
               className="text-gray-900 dark:text-white hover:text-blue-700 dark:hover:text-blue-500 text-sm md:text-base lg:text-lg font-medium"
               aria-current="page"
             >
@@ -567,7 +567,7 @@ function App() {
                       for="user_name"
                       class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
                     >
-                      İsminiz
+                      İsim
                     </label>
                     <input
                       type="text"
@@ -584,7 +584,7 @@ function App() {
                       for="user_email"
                       class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
                     >
-                      E-posta adresiniz
+                      E-posta adresi
                     </label>
                     <input
                       type="email"
@@ -618,7 +618,7 @@ function App() {
                       for="message"
                       class="block mb-2 text-sm font-medium text-gray-300"
                     >
-                      Mesajınız
+                      Mesaj
                     </label>
                     <textarea
                       id="message"
